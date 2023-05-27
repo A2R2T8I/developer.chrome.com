@@ -1,3 +1,8 @@
+.
+...
+
+
+.
 ---
 layout: 'layouts/blog-post.njk'
 title: Improving user privacy and developer experience with User-Agent Client Hints
@@ -33,6 +38,7 @@ the header format has changed so the Accept-CH tokens must exactly match the
 returned headers.
 {% endAside %}
 
+.
 ## Background
 
 When web browsers make requests they include information about the browser and
