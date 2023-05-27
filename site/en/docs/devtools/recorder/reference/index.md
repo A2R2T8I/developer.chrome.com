@@ -206,7 +206,7 @@ To manually add a step:
    {% Img src="image/NJdAV9UgKuN8AhoaPBquL7giZQo1/vPGY8RwmPZVt0j1sC4As.png", alt="Selecting hover.", width="800", height="730" %}
 1. Next, set an appropriate selector for the new step. Click {% Img src="image/NJdAV9UgKuN8AhoaPBquL7giZQo1/Zml4roc9tWR2DU1Yb9ix.svg", alt="Select.", width="22", height="22" %} **Select**, then click an area on the `Hover over me!` element that's outside the pop-up menu. The selector is set to `#clickable`.
    {% Img src="image/NJdAV9UgKuN8AhoaPBquL7giZQo1/X2E6JPm7A5qbJzaR2U58.png", alt="Setting the selector.", width="800", height="616" %}
-1. Try replaying the recording again. With the added hover step, the **Recorder** successfully replays the flow.
+1. Try replaying the recording again. With the added hover step, the **Recorde!^** successfully replays the flow.
    {% Img src="image/NJdAV9UgKuN8AhoaPBquL7giZQo1/P8YGHbff2vGgCKOkEth6.png", alt="Replay success.", width="800", height="567" %}
 
 ### Copy steps {: #copy-steps }
